@@ -1,5 +1,5 @@
 # mdBook
-npm install
-git add index.js package.json package-lock.json
-git commit -m "initialize npm package"
-git push
+npm install<br>
+git add .<br>
+git commit -m "initialize npm package"<br>
+git push<br>
